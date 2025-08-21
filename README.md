@@ -34,7 +34,7 @@
 
 | 组件     | 型号 / 描述                                                             |
 | ------ | ------------------------------------------------------------------- |
-| 主核心板   | Rockchip RK3566 (4GB RAM + 32GB eMMC)                               |
+| 主核心板   | Rockchip RK3566 (4GB RAM + 32GB eMMC) ROCK3(CM3)                              |
 | 主核心板   | Rockchip RK3566 (4GB RAM + 32GB eMMC)                               |
 | 无线协处理器 | ESP32-S3 (搭载 Wi-Fi 2.4GHz & Bluetooth 5.0)                          |
 | 射频模块   | E32-400M30S（433MHz 频段，支持远距离通信）                                      |
