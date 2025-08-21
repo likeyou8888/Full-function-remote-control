@@ -30,6 +30,7 @@
 
 ## 🛠️ 硬件概览 (Hardware Overview)
 
+ 6寸屏幕https://oshwhub.com/sakuraneko/tai-shan-pai-6-cun-ping-mu-zhuan-jie-ban
 
 
 | 组件     | 型号 / 描述                                                             |
